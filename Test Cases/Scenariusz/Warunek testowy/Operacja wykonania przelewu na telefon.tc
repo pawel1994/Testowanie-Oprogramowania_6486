@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Operacja wykonania przelewu na telefon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a50b89c5-147c-4942-a141-62547dafb2bc</testCaseGuid>
+</TestCaseEntity>
